@@ -1,1 +1,1 @@
-# LLM-ChatApp-RAG
+# LLM-Powered-App with langchain and streamlit
